@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/llongour/universe
+	url = https://github.com/llongour/llongour.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "kobolite"]
